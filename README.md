@@ -1,1 +1,1 @@
-# small_project
+# small_responsive project
